@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 25%;
+			border-radius: 25%;
+		}
+    </style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Biography</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333333;
+            text-align: center;
+        }
+
+        p {
+            color: #555;
+            text-align: center;
+        }
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <img src="C:\Users\shary\Pictures\my image\20101003-199.jpg"alt="Sheharyaar Manzoor">
+    <header>id
+        <h1>Sheharyaar Manzoor</h1>
+    </header>
+
+    <section>
+        <h2>Biography</h2>
+        <p>
+            Hi.My name is Sheharyaar Manzoor and my roll number is 199.
+        </p>
+
+        <p>
+            I have cleard my inter and now studying in it for programming and experience.
+        </p>
+
+        <p>
+            I like to travel different countries and like to shop.
+        </p>
+    </section>
+
+
+</body>
+</html>
